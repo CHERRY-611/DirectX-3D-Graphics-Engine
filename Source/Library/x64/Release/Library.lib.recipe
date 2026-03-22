@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\2023_GGP\Build\x64\Release\PSSolid.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023_GGP\Build\x64\Release\Shader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023_GGP\Build\x64\Release\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023_GGP\Build\x64\Release\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
